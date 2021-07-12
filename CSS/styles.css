@@ -33,6 +33,11 @@ img{
 }
 nav ul li a{
     color: indianred;
+    float: left;
     font-size: 25px;
     text-transform: uppercase;
+}
+a.active,a:hover{
+    background: lightblue;
+    transition: .5s;
 }
