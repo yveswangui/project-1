@@ -30,6 +30,7 @@ img{
     float: left;
     border-width: 30px;
     margin-top: 50px;
+    border-radius: 800px;
 }
 nav ul li a{
     color: indianred;
@@ -37,7 +38,7 @@ nav ul li a{
     font-size: 25px;
     text-transform: uppercase;
 }
-a.active,a:hover{
+a:hover{
     background: lightblue;
     transition: .5s;
 }
