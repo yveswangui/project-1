@@ -19,7 +19,7 @@ label.logo{
     font-size: 35px;
     font-weight: bold;
     line-height: 50px;
-    padding: o 100px;
+    padding: o 100px:
 }
 nav ul li{
     display: inline-block;
@@ -28,9 +28,9 @@ nav ul li{
 }
 img{
     float: left;
-    border-width: 30px;
+    border-width: 50px;
     margin-top: 50px;
-    border-radius: 800px;
+    border-radius: 200px;
 }
 nav ul li a{
     color: indianred;
@@ -44,4 +44,8 @@ a:hover{
 }
 .about{
     text-align: center;
+}
+.color{
+    color: midnightblue;
+    font-weight: bold;
 }
