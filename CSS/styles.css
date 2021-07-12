@@ -41,3 +41,6 @@ a.active,a:hover{
     background: lightblue;
     transition: .5s;
 }
+.about{
+    text-align: center;
+}
