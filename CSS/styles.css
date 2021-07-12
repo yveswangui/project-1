@@ -31,3 +31,8 @@ img{
     border-width: 30px;
     margin-top: 50px;
 }
+nav ul li a{
+    color: indianred;
+    font-size: 25px;
+    text-transform: uppercase;
+}
